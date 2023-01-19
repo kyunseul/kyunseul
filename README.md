@@ -3,57 +3,36 @@
 [<img src='https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jung-wha, kim-ab3802206/)   -->
 
 <a href="mailto:kyunseul0112@gmail.com"><img src="https://img.shields.io/badge/kyunseul0112@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jung-wha, kim-ab3802206/"><img src="https://img.shields.io/badge/jung-wha, kim-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/%EC%A0%95%ED%99%94-%EA%B9%80-b82394262/"><img src="https://img.shields.io/badge/jung wha,im-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=Jiwang%20BAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A2E9FF&height=250&section=header&text=jungwha%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>Career & Academy</h1></div>
-<h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
-<h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
-<h4>Basic learning of development language(C, C#, Java, Python, R)</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/Libray_search">Public library Information</a>(.Net Winform)</h4>
-  </div>
-</details>
 
-<h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02</h3>
-<h4>Learning of Android App, FirmWare, HardWare</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/whenToEat">Shelf life management</a>(Java Android App)</h4>
-    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
-  </div>
-</details>
 
 <h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
 <h4>Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
+    <h4><a href="https://www.notion.so/AWS-3-Tier-64cd88753f194c4aa95f2e3c325788bf">AWS 서비스를 이용한 3-Tier 구성</h4>
   </div>
   <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
+    <h4><a href="https://www.notion.so/NCP-3-Tier-72ee12619def468d9ecba32098e1b463">NCP 서비스를 이용한 3-Tier 구축</h4>
   </div>
+    <h4><a href="https://www.notion.so/Terraform-Code-3Tier-0aeb2585e7944f1c92aae54e66559773">Terraform Code 를 이용한 3Tier 구축 </h4>
+  </div>
+  <div markdown="1">
+    <h4><a href="https://www.notion.so/AWS-MSA-fa6593c5ffc44afc848fc203768818b3">AWS 서비스를 이용한 MSA 구축</h4>
+  </div>
+  <div markdown="1">
 </details>
 
-<div align=center><h1>Awards</h1></div>
-<h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award</h3>
-<h4>Role : LAMP Stack Backend & HW,FW</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
-  </div>
-</details>
 
 <div align=center><h1>Certificate</h1></div>
-<h3>Microsoft Certified: Azure Fundamentals</h3> 
+<h3>AWS Certified Solutions Architect - Associate (SAA)</h3> 
 
-![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/122523493/213390346-1e8a1b43-1237-4cd5-b308-f7b3fdfb6194.png)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
