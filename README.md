@@ -44,33 +44,23 @@
 
 ### Language
 
-<img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white">  <!--c-->
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--rust-->
-<img src="https://img.shields.io/badge/c%23-007396?style=for-the-badge&logo=Csharp&logoColor=white">  <!--c#-->
-<img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">  <!--자바-->
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">  <!--R-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <!--Python-->
 
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
-<img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <!--arduinoIDE-->
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> <!--vs-->
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <!--eclipse-->
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <!--androidstudio-->
-<img src="https://img.shields.io/badge/AutoCad-007396?style=for-the-badge&logo=Autodesk&logoColor=white">  <!--오토캐드-->
 
 
 ### Database
 
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">  <!--mongo-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
-<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">  <!--mssql-->
 
 ### Framework
 
 <!-- <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <!--apachetomcat--> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <!--spring-->
-<img src="https://img.shields.io/badge/.NET winform-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  <!--.Net -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  <!--android-->
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">  <!--spring Boot-->
 
 ### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
@@ -82,15 +72,10 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <!--jenkins-->
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
 
-### ServiceMesh
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white">  <!--Istio-->
-
 ### Monitoring
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">  <!--Prometheus-->
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">  <!--Grafana-->
-<img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=Fluentd&logoColor=white">  <!--Fluentd-->
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">  <!--Elasticsearch-->
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">  <!--Kibana-->
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white">  <!--Datadog-->
 
 ### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
