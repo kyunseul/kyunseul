@@ -83,20 +83,13 @@
 ### Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
 
-![jiwang's github stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&theme=dracula&show_icons=true&hide_border=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BAE-JI-WANG&title=MultiLanguage,Commit&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Profile views](https://gpvc.arturio.dev/BAE-JI-WANG)  
 
 ----
 
 ## 🔭 Project
 
-### [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)
-### [소비자용 유통기한관리 어플리케이션 "언제무꼬"] (https://github.com/BAE-JI-WANG/whenToEat)
-### [공공도서관 통합 플랫폼] (https://github.com/BAE-JI-WANG/Libray_search)
-### [개발자 커뮤니티 "가치코딩"] (https://github.com/deco-gachicoding)
-### ["비용절약을 위해 오픈소스를 활용한 EKS 환경 웹서비스"] (https://github.com/BAE-JI-WANG/btc_AWeSomeFinal)
+### [AWS 서비스를 이용한 3-Tier 구성] (https://www.notion.so/AWS-3-Tier-64cd88753f194c4aa95f2e3c325788bf)
+### [NCP 서비스를 이용한 3-Tier 구축] (https://www.notion.so/NCP-3-Tier-72ee12619def468d9ecba32098e1b463)
+### [Terraform Code 를 이용한 3Tier 구축 ] (https://www.notion.so/Terraform-Code-3Tier-0aeb2585e7944f1c92aae54e66559773)
+### [AWS 서비스를 이용한 MSA 구축] (https://www.notion.so/AWS-MSA-fa6593c5ffc44afc848fc203768818b3)
