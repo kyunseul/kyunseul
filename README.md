@@ -1,5 +1,5 @@
 
-<!-- [<img src='https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white' alt='gmail' height='30'>](kyunseul0112@gmail.com)
+<!-- [<img src='https://img.shields.io/badge/kyunseul0112@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white' alt='gmail' height='30'>](kyunseul0112@gmail.com)
 [<img src='https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jung-wha, kim-ab3802206/)   -->
 
 <a href="mailto:kyunseul0112@gmail.com"><img src="https://img.shields.io/badge/kyunseul0112@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
